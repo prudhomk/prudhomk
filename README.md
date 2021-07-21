@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+    <p>I'm a Fullstack Software Developer that loves taking on challenges and coming up with new iedas and ways to solve problems.</p>  
+    <p> When I'm not coding, I enjoy drawing, playing piano, baking, and watching the critters in my backyard.</p>
+</div>
+<div align="center">
+  <h3> Tech Stack </h3>
+  <div align="center">
+    React | JavaScript | HTML5 | CSS3 | Node.js | postgreSQL | Git
+  </div>
+</div>
