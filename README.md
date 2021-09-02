@@ -21,9 +21,12 @@ Here are some ideas to get you started:
 <div align="center">
   <h3> Tech Stack </h3>
   <div align="center">
-    React | JavaScript | HTML5 | CSS3 | Node.js | postgreSQL | Git
-                Jest | Superagent | QUnit | Express 
+    React | JavaScript | HTML5 | CSS3 | Node.js | postgreSQL | Git 
   </div>
+   <div align="center">
+    Jest | Superagent | QUnit | Express  
+  </div>
+    
 </div>
 
 ### Stats
