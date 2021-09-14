@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 <div align="center">
   <h3> Tech Stack </h3>
   <div align="center">
-    React | JavaScript | HTML5 | CSS3 | Node.js | postgreSQL | Git 
+    React | JavaScript(ES6) | HTML5 | CSS3 | Node.js | postgreSQL | Express 
   </div>
    <div align="center">
-    Jest | Superagent | QUnit | Express  
+    Jest | Superagent | QUnit | Git  
   </div>
     
 </div>
