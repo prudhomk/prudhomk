@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 </div>
 
 ### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prudhomk&layout=compact&theme=vision-friendly-dark)](https://github.com/prudhomk/github-readme-stats)
-[![My github stats](https://github-readme-stats.vercel.app/api?username=prudhomk&hide=stars,issues&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/prudhomk/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prudhomk&layout=compact)](https://github.com/prudhomk/github-readme-stats)
+![Kalan's GitHub stats](https://github-readme-stats.vercel.app/api?username=prudhomk&show_icons=true&theme=merko)
